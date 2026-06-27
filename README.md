@@ -85,8 +85,7 @@ The webpage contains:
 
 ### Connect with Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- LinkedIn: https://www.linkedin.com/in/amrita-singh-5ba95b294?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
